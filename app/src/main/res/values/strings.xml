@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="my_greeting">Hello world! This is an app made by Liz Munz</string>
+</resources>
